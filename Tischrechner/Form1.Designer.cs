@@ -896,7 +896,7 @@
             this.CurMode.Name = "CurMode";
             this.CurMode.Size = new System.Drawing.Size(375, 28);
             this.CurMode.TabIndex = 66;
-            this.CurMode.Text = "Einfacher Modus";
+            this.CurMode.Text = "janzen ist cool";
             // 
             // bProz
             // 
